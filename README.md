@@ -1,6 +1,6 @@
 # [GrapesJS](http://grapesjs.com)
 
-[![Build Status](https://travis-ci.org/artf/grapesjs.svg?branch=master)](https://travis-ci.org/artf/grapesjs)
+[![Build Status](https://travis-ci.org/ShamimIslam/grapesjs.svg?branch=master)](https://travis-ci.org/ShamimIslam/grapesjs)
 [![Chat](https://img.shields.io/badge/chat-discord-7289da.svg)](https://discord.gg/QAbgGXq)
 [![CDNJS](https://img.shields.io/cdnjs/v/grapesjs.svg)](https://cdnjs.com/libraries/grapesjs)
 [![npm](https://img.shields.io/npm/v/grapesjs.svg)](https://www.npmjs.com/package/grapesjs)
@@ -37,8 +37,8 @@ Newsletter Demo - http://grapesjs.com/demo-newsletter-editor.html
 * [Testing](#testing)
 * [Plugins](#plugins)
 * [Support](#support)
-* [Changelog](https://github.com/artf/grapesjs/releases)
-* [Contributing](https://github.com/artf/grapesjs/blob/master/CONTRIBUTING.md)
+* [Changelog](https://github.com/ShamimIslam/grapesjs/releases)
+* [Contributing](https://github.com/ShamimIslam/grapesjs/blob/master/CONTRIBUTING.md)
 * [License](#license)
 
 
@@ -74,7 +74,7 @@ Newsletter Demo - http://grapesjs.com/demo-newsletter-editor.html
 * NPM
   * `npm i grapesjs`
 * GIT
-  * `git clone https://github.com/artf/grapesjs.git`
+  * `git clone https://github.com/ShamimIslam/grapesjs.git`
 
 For the development purpose you should follow instructions below.
 
@@ -125,7 +125,7 @@ GrapesJS uses [Webpack](https://github.com/webpack/webpack) as a module bundler 
 Clone the repository and install all the necessary dependencies
 
 ```sh
-$ git clone https://github.com/artf/grapesjs.git
+$ git clone https://github.com/ShamimIslam/grapesjs.git
 $ cd grapesjs
 $ npm i
 ```
@@ -171,36 +171,36 @@ $ npm test
 ## Plugins
 
 ### Extensions
-* [grapesjs-plugin-export](https://github.com/artf/grapesjs-plugin-export) - Export GrapesJS templates in a zip archive
-* [grapesjs-plugin-filestack](https://github.com/artf/grapesjs-plugin-filestack) - Add Filestack uploader in Asset Manager
-* [grapesjs-plugin-ckeditor](https://github.com/artf/grapesjs-plugin-ckeditor) - Replaces the built-in RTE with CKEditor
-* [grapesjs-aviary](https://github.com/artf/grapesjs-aviary) - Add the Aviary Image Editor (dismissed, use the plugin below instead)
-* [grapesjs-tui-image-editor](https://github.com/artf/grapesjs-tui-image-editor) - GrapesJS TOAST UI Image Editor
-* [grapesjs-blocks-basic](https://github.com/artf/grapesjs-blocks-basic) - Basic set of blocks
-* [grapesjs-plugin-forms](https://github.com/artf/grapesjs-plugin-forms) - Set of form components and blocks
-* [grapesjs-navbar](https://github.com/artf/grapesjs-navbar) - Simple navbar component
-* [grapesjs-component-countdown](https://github.com/artf/grapesjs-component-countdown) - Simple countdown component
-* [grapesjs-style-gradient](https://github.com/artf/grapesjs-style-gradient) - Add `gradient` type input to the Style Manager
-* [grapesjs-style-filter](https://github.com/artf/grapesjs-style-filter) - Add `filter` type input to the Style Manager
-* [grapesjs-style-bg](https://github.com/artf/grapesjs-style-bg) - Full-stack background style property type, with the possibility to add images, colors, and gradients
-* [grapesjs-blocks-flexbox](https://github.com/artf/grapesjs-blocks-flexbox) - Add the flexbox block
-* [grapesjs-lory-slider](https://github.com/artf/grapesjs-lory-slider) - Slider component by using [lory](https://github.com/meandmax/lory)
-* [grapesjs-tabs](https://github.com/artf/grapesjs-tabs) - Simple tabs component
-* [grapesjs-tooltip](https://github.com/artf/grapesjs-tooltip) - Simple, CSS only, tooltip component for GrapesJS
-* [grapesjs-custom-code](https://github.com/artf/grapesjs-custom-code) - Embed custom code
-* [grapesjs-touch](https://github.com/artf/grapesjs-touch) - Enable touch support
-* [grapesjs-indexeddb](https://github.com/artf/grapesjs-indexeddb) - Storage wrapper for IndexedDB
-* [grapesjs-firestore](https://github.com/artf/grapesjs-firestore) - Storage wrapper for [Cloud Firestore](https://firebase.google.com/docs/firestore)
-* [grapesjs-parser-postcss](https://github.com/artf/grapesjs-parser-postcss) - Custom CSS parser for GrapesJS by using [PostCSS](https://github.com/postcss/postcss)
-* [grapesjs-typed](https://github.com/artf/grapesjs-typed) - Typed component made by wrapping Typed.js library
+* [grapesjs-plugin-export](https://github.com/ShamimIslam/grapesjs-plugin-export) - Export GrapesJS templates in a zip archive
+* [grapesjs-plugin-filestack](https://github.com/ShamimIslam/grapesjs-plugin-filestack) - Add Filestack uploader in Asset Manager
+* [grapesjs-plugin-ckeditor](https://github.com/ShamimIslam/grapesjs-plugin-ckeditor) - Replaces the built-in RTE with CKEditor
+* [grapesjs-aviary](https://github.com/ShamimIslam/grapesjs-aviary) - Add the Aviary Image Editor (dismissed, use the plugin below instead)
+* [grapesjs-tui-image-editor](https://github.com/ShamimIslam/grapesjs-tui-image-editor) - GrapesJS TOAST UI Image Editor
+* [grapesjs-blocks-basic](https://github.com/ShamimIslam/grapesjs-blocks-basic) - Basic set of blocks
+* [grapesjs-plugin-forms](https://github.com/ShamimIslam/grapesjs-plugin-forms) - Set of form components and blocks
+* [grapesjs-navbar](https://github.com/ShamimIslam/grapesjs-navbar) - Simple navbar component
+* [grapesjs-component-countdown](https://github.com/ShamimIslam/grapesjs-component-countdown) - Simple countdown component
+* [grapesjs-style-gradient](https://github.com/ShamimIslam/grapesjs-style-gradient) - Add `gradient` type input to the Style Manager
+* [grapesjs-style-filter](https://github.com/ShamimIslam/grapesjs-style-filter) - Add `filter` type input to the Style Manager
+* [grapesjs-style-bg](https://github.com/ShamimIslam/grapesjs-style-bg) - Full-stack background style property type, with the possibility to add images, colors, and gradients
+* [grapesjs-blocks-flexbox](https://github.com/ShamimIslam/grapesjs-blocks-flexbox) - Add the flexbox block
+* [grapesjs-lory-slider](https://github.com/ShamimIslam/grapesjs-lory-slider) - Slider component by using [lory](https://github.com/meandmax/lory)
+* [grapesjs-tabs](https://github.com/ShamimIslam/grapesjs-tabs) - Simple tabs component
+* [grapesjs-tooltip](https://github.com/ShamimIslam/grapesjs-tooltip) - Simple, CSS only, tooltip component for GrapesJS
+* [grapesjs-custom-code](https://github.com/ShamimIslam/grapesjs-custom-code) - Embed custom code
+* [grapesjs-touch](https://github.com/ShamimIslam/grapesjs-touch) - Enable touch support
+* [grapesjs-indexeddb](https://github.com/ShamimIslam/grapesjs-indexeddb) - Storage wrapper for IndexedDB
+* [grapesjs-firestore](https://github.com/ShamimIslam/grapesjs-firestore) - Storage wrapper for [Cloud Firestore](https://firebase.google.com/docs/firestore)
+* [grapesjs-parser-postcss](https://github.com/ShamimIslam/grapesjs-parser-postcss) - Custom CSS parser for GrapesJS by using [PostCSS](https://github.com/postcss/postcss)
+* [grapesjs-typed](https://github.com/ShamimIslam/grapesjs-typed) - Typed component made by wrapping Typed.js library
 
 ### Presets
-* [grapesjs-preset-webpage](https://github.com/artf/grapesjs-preset-webpage) - Webpage Builder
-* [grapesjs-preset-newsletter](https://github.com/artf/grapesjs-preset-newsletter) - Newsletter Builder
-* [grapesjs-mjml](https://github.com/artf/grapesjs-mjml) - Newsletter Builder with MJML components
+* [grapesjs-preset-webpage](https://github.com/ShamimIslam/grapesjs-preset-webpage) - Webpage Builder
+* [grapesjs-preset-newsletter](https://github.com/ShamimIslam/grapesjs-preset-newsletter) - Newsletter Builder
+* [grapesjs-mjml](https://github.com/ShamimIslam/grapesjs-mjml) - Newsletter Builder with MJML components
 
 
-Find out more about plugins here: [Creating plugins](https://github.com/artf/grapesjs/wiki/Creating-plugins)
+Find out more about plugins here: [Creating plugins](https://github.com/ShamimIslam/grapesjs/wiki/Creating-plugins)
 
 
 
